@@ -8,6 +8,10 @@ See the [LICENSE](LICENSE.txt) file for details.
 Plugin with dark theme by Bergen. 
 <!-- Plugin description end -->
 
+## Screenshots
+
+![1](/screenshots/1.png)
+
 ## Installation
 
 - Manually:
