@@ -165,7 +165,13 @@
       "foreground": "#C9CCD5",
       "stepNumberForeground": "#C9CCD5"
     },
-    "MainToolbar.background": "#000000"
+    "MainToolbar.background": "#000000",
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#000000"
+      },
+      "FileHistory.Commit.selectedBranchBackground": "#000000"
+    }
   },
   "icons": {
     "ColorPalette": {
