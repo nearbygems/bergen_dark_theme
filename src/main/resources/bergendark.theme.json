@@ -5,45 +5,178 @@
   "editorScheme": "/bergen_dark.xml",
   "ui": {
     "*": {
-      "*": {
-        "*": {
-          "background": "#000000",
-          "backgroundColor": "#000000",
-          "infoBackground": "#000000",
-          "successBackground": "#000000",
-          "errorBackground": "#000000",
-          "iconBackground": "#000000",
-          "defaultBackground": "#000000",
-          "hoverBackground": "#000000",
-          "selectedBackground": "#000000"
-        },
-        "background": "#000000",
-        "backgroundColor": "#000000",
-        "infoBackground": "#000000",
-        "successBackground": "#000000",
-        "errorBackground": "#000000",
-        "iconBackground": "#000000",
-        "defaultBackground": "#000000",
-        "hoverBackground": "#000000",
-        "selectedBackground": "#000000"
-      },
       "background": "#000000",
-      "backgroundColor": "#000000",
-      "infoBackground": "#000000",
-      "successBackground": "#000000",
-      "errorBackground": "#000000",
-      "iconBackground": "#000000",
-      "defaultBackground": "#000000",
+      "foreground": "#C9CCD5",
+      "infoForeground": "#E0861F",
+      "successForeground": "#50A661",
+      "selectionBackground": "#3333FF",
+      "selectionForeground": "#C9CCD5",
+      "selectionInactiveBackground": "#42424f",
+      "selectionBackgroundInactive": "#42424F",
+      "disabledBackground": "#33210C",
+      "inactiveBackground": "#33210C",
+      "disabledForeground": "#E0861F",
+      "disabledText": "#E0861F",
+      "inactiveForeground": "#E0861F",
+      "acceleratorForeground": "#C9CCD5",
+      "acceleratorSelectionForeground": "#C9CCD5",
+      "errorForeground": "#FA3232",
+      "borderColor": "#C9CCD5",
+      "disabledBorderColor": "#AA6E28",
+      "focusColor": "#1AEBFF",
+      "focusedBorderColor": "#1AEBFF",
+      "hoverBorderColor": "#1AEBFF",
+      "pressedBorderColor": "#1AEBFF",
+      "separatorColor": "#B3B3B3",
+      "lineSeparatorColor": "#6A6173"
+    },
+    "ActionButton": {
       "hoverBackground": "#000000",
-      "selectedBackground": "#000000",
-      "Tree.background": "#000000",
-      "Tree.selectionBackground": "#1E1E1E",
-      "Tree.selectionInactiveBackground": "#1E1E1E",
-      "Panel.background": "#000000",
-      "Viewport.background": "#000000",
-      "Tree.foreground": "#c9ccd5",
-      "Panel.foreground": "#c9ccd5",
-      "Viewport.foreground": "#c9ccd5"
+      "pressedBackground": "#000000"
+    },
+    "Button": {
+      "startBackground": "#000000",
+      "endBackground": "#000000",
+      "startBorderColor": "#C9CCD5",
+      "endBorderColor": "#C9CCD5",
+      "default": {
+        "foreground": "#000000",
+        "focusedBorderColor": "#000000"
+      }
+    },
+    "SegmentedButton": {
+      "selectedButtonColor": "#000000"
+    },
+    "ComboBox": {
+      "nonEditableBackground": "#000000",
+      "ArrowButton": {
+        "iconColor": "#C9CCD5",
+        "nonEditableBackground": "#000000"
+      }
+    },
+    "Code": {
+      "Inline": {
+        "backgroundColor": "#000000"
+      },
+      "Block": {
+        "backgroundColor": "#000000",
+        "EditorPane": {
+          "backgroundColor": "#000000"
+        }
+      }
+    },
+    "Component": {
+      "focusedBorderColor": "#000000",
+      "iconColor": "#C9CCD5",
+      "hoverIconColor": "#C9CCD5"
+    },
+    "Counter": {
+      "background": "#C9CCD5",
+      "foreground": "#000000"
+    },
+    "EditorPane.inactiveBackground": "#000000",
+    "EditorTabs": {
+      "underlinedTabBackground": "#000000",
+      "inactiveColoredFileBackground": "#000000"
+    },
+    "Notification": {
+      "background": "#000000",
+      "errorForeground": "#C9CCD5",
+      "errorBackground": "#800002",
+      "errorBorderColor": "#E6194B",
+      "MoreButton.innerBorderColor": "#C9CCD5",
+      "ToolWindow": {
+        "informativeForeground": "#C9CCD5",
+        "informativeBackground": "#450073",
+        "informativeBorderColor": "#e6e6e6",
+        "warningForeground": "#C9CCD5",
+        "warningBackground": "#804605",
+        "warningBorderColor": "#F58231",
+        "errorForeground": "#C9CCD5",
+        "errorBackground": "#800002",
+        "errorBorderColor": "#E6194B"
+      }
+    },
+    "OptionButton": {
+      "default.separatorColor": "#000000",
+      "separatorColor": "#C9CCD5"
+    },
+    "Panel.mouseShortcutBackground": "#000000",
+    "Plugins": {
+      "Button": {
+        "installFillForeground": "#000000",
+        "updateForeground": "#000000"
+      }
+    },
+    "Bookmark.MnemonicAvailable.background": "#000000",
+    "Bookmark.MnemonicAvailable.foreground": "#C9CCD5",
+    "Bookmark.MnemonicAvailable.borderColor": "#C9CCD5",
+    "Bookmark.MnemonicAssigned.foreground": "#000000",
+    "Bookmark.Mnemonic.iconForeground": "#C9CCD5",
+    "ScrollBar": {
+      "Transparent": {
+        "thumbColor": "#b3b3b3",
+        "thumbBorderColor": "#000000C8",
+        "hoverThumbColor": "#E6E6E6",
+        "hoverThumbBorderColor": "#000000C8",
+        "hoverTrackColor": "#E6E6E65A"
+      },
+      "thumbColor": "#b3b3b3",
+      "thumbBorderColor": "#000000C8",
+      "hoverThumbColor": "#E6E6E6",
+      "hoverThumbBorderColor": "#000000C8",
+      "trackColor": "#000000",
+      "hoverTrackColor": "#E6E6E65A",
+      "Mac": {
+        "Transparent": {
+          "thumbColor": "#A6A6A6",
+          "thumbBorderColor": "#000000C8",
+          "hoverThumbColor": "#E6E6E6",
+          "hoverThumbBorderColor": "#000000C8",
+          "hoverTrackColor": "#E6E6E65A"
+        },
+        "thumbColor": "#A6A6A6",
+        "thumbBorderColor": "#000000C8",
+        "hoverThumbColor": "#E6E6E6",
+        "hoverThumbBorderColor": "#000000C8",
+        "trackColor": "#000000",
+        "hoverTrackColor": "#E6E6E65A"
+      }
+    },
+    "Slider": {
+      "buttonColor": "#C9CCD5",
+      "buttonBorderColor": "#000000",
+      "tickColor": "#C9CCD5",
+      "trackColor": "#8c8c8c"
+    },
+    "ToggleButton": {
+      "onForeground": "#C9CCD5",
+      "offForeground": "#C9CCD5",
+      "offBackground": "#000000",
+      "buttonColor": "#C9CCD5",
+      "borderColor": "#C9CCD5"
+    },
+    "Lesson": {
+      "stepNumberForeground": "#C9CCD5",
+      "Badge.newLessonForeground": "#000000"
+    },
+    "GotItTooltip": {
+      "codeBackground": "#000000",
+      "shortcutBackground": "#000000"
+    },
+    "Tooltip.Learning": {
+      "borderColor": "#C9CCD5",
+      "spanForeground": "#000000",
+      "foreground": "#C9CCD5",
+      "stepNumberForeground": "#C9CCD5"
+    },
+    "MainToolbar.background": "#000000"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Objects.BlackText": "#000000FF",
+      "Checkbox.Background.Default.Dark": "#000000",
+      "Checkbox.Background.Disabled.Dark": "#000000"
     }
   }
 }
