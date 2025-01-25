@@ -21,8 +21,6 @@
       "acceleratorForeground": "#C9CCD5",
       "acceleratorSelectionForeground": "#C9CCD5",
       "errorForeground": "#FA3232",
-      "borderColor": "#C9CCD5",
-      "disabledBorderColor": "#C9CCD5",
       "focusColor": "#1AEBFF",
       "focusedBorderColor": "#1AEBFF",
       "hoverBorderColor": "#1AEBFF",
@@ -110,7 +108,6 @@
     },
     "Bookmark.MnemonicAvailable.background": "#000000",
     "Bookmark.MnemonicAvailable.foreground": "#C9CCD5",
-    "Bookmark.MnemonicAvailable.borderColor": "#C9CCD5",
     "Bookmark.MnemonicAssigned.foreground": "#000000",
     "Bookmark.Mnemonic.iconForeground": "#C9CCD5",
     "ScrollBar": {
@@ -153,8 +150,7 @@
       "onForeground": "#C9CCD5",
       "offForeground": "#C9CCD5",
       "offBackground": "#000000",
-      "buttonColor": "#C9CCD5",
-      "borderColor": "#C9CCD5"
+      "buttonColor": "#C9CCD5"
     },
     "Lesson": {
       "stepNumberForeground": "#C9CCD5",
@@ -165,7 +161,6 @@
       "shortcutBackground": "#000000"
     },
     "Tooltip.Learning": {
-      "borderColor": "#C9CCD5",
       "spanForeground": "#000000",
       "foreground": "#C9CCD5",
       "stepNumberForeground": "#C9CCD5"
