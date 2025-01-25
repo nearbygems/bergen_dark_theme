@@ -35,7 +35,15 @@
       "iconBackground": "#000000",
       "defaultBackground": "#000000",
       "hoverBackground": "#000000",
-      "selectedBackground": "#000000"
+      "selectedBackground": "#000000",
+      "Tree.background": "#000000",
+      "Tree.selectionBackground": "#1E1E1E",
+      "Tree.selectionInactiveBackground": "#1E1E1E",
+      "Panel.background": "#000000",
+      "Viewport.background": "#000000",
+      "Tree.foreground": "#c9ccd5",
+      "Panel.foreground": "#c9ccd5",
+      "Viewport.foreground": "#c9ccd5"
     }
   }
 }
