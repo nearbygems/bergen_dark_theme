@@ -12,7 +12,7 @@ Plugin with dark theme by Bergen.
 
 - Manually:
 
-  Download the [latest release](plugin/bergen_dark_theme-0.0.6.jar) and install it manually using
+  Download the [latest release](https://github.com/nearbygems/bergen_dark_theme/raw/refs/heads/main/plugin/bergen_dark_theme-0.0.6.jar) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ---
