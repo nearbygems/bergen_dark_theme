@@ -517,6 +517,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="2d543f" />
         <option name="ERROR_STRIPE_COLOR" value="5b786a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -892,6 +893,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="2d543f" />
         <option name="ERROR_STRIPE_COLOR" value="ba6387" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
