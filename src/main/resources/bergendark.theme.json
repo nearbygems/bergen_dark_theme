@@ -5,7 +5,7 @@
   "editorScheme": "/bergen_dark.xml",
   "ui": {
     "*": {
-      "background": "#060914",
+      "background": "#000000",
       "foreground": "#C9CCD5",
       "infoForeground": "#C9CCD5",
       "successForeground": "#50A661",
@@ -13,8 +13,8 @@
       "selectionForeground": "#C9CCD5",
       "selectionInactiveBackground": "#42424f",
       "selectionBackgroundInactive": "#42424F",
-      "disabledBackground": "#060914",
-      "inactiveBackground": "#060914",
+      "disabledBackground": "#000000",
+      "inactiveBackground": "#000000",
       "disabledForeground": "#C9CCD5",
       "disabledText": "#C9CCD5",
       "inactiveForeground": "#C9CCD5",
@@ -29,56 +29,56 @@
       "lineSeparatorColor": "#6A6173"
     },
     "ActionButton": {
-      "hoverBackground": "#060914",
-      "pressedBackground": "#060914"
+      "hoverBackground": "#000000",
+      "pressedBackground": "#000000"
     },
     "Button": {
-      "startBackground": "#060914",
-      "endBackground": "#060914",
+      "startBackground": "#000000",
+      "endBackground": "#000000",
       "startBorderColor": "#C9CCD5",
       "endBorderColor": "#C9CCD5",
       "default": {
-        "foreground": "#060914",
-        "focusedBorderColor": "#060914"
+        "foreground": "#000000",
+        "focusedBorderColor": "#000000"
       }
     },
     "SegmentedButton": {
-      "selectedButtonColor": "#060914"
+      "selectedButtonColor": "#000000"
     },
     "ComboBox": {
-      "nonEditableBackground": "#060914",
+      "nonEditableBackground": "#000000",
       "ArrowButton": {
         "iconColor": "#C9CCD5",
-        "nonEditableBackground": "#060914"
+        "nonEditableBackground": "#000000"
       }
     },
     "Code": {
       "Inline": {
-        "backgroundColor": "#060914"
+        "backgroundColor": "#000000"
       },
       "Block": {
-        "backgroundColor": "#060914",
+        "backgroundColor": "#000000",
         "EditorPane": {
-          "backgroundColor": "#060914"
+          "backgroundColor": "#000000"
         }
       }
     },
     "Component": {
-      "focusedBorderColor": "#060914",
+      "focusedBorderColor": "#000000",
       "iconColor": "#C9CCD5",
       "hoverIconColor": "#C9CCD5"
     },
     "Counter": {
       "background": "#C9CCD5",
-      "foreground": "#060914"
+      "foreground": "#000000"
     },
-    "EditorPane.inactiveBackground": "#060914",
+    "EditorPane.inactiveBackground": "#000000",
     "EditorTabs": {
-      "underlinedTabBackground": "#060914",
-      "inactiveColoredFileBackground": "#060914"
+      "underlinedTabBackground": "#000000",
+      "inactiveColoredFileBackground": "#000000"
     },
     "Notification": {
-      "background": "#060914",
+      "background": "#000000",
       "errorForeground": "#C9CCD5",
       "errorBackground": "#800002",
       "errorBorderColor": "#E6194B",
@@ -96,88 +96,88 @@
       }
     },
     "OptionButton": {
-      "default.separatorColor": "#060914",
+      "default.separatorColor": "#000000",
       "separatorColor": "#C9CCD5"
     },
-    "Panel.mouseShortcutBackground": "#060914",
+    "Panel.mouseShortcutBackground": "#000000",
     "Plugins": {
       "Button": {
-        "installFillForeground": "#060914",
-        "updateForeground": "#060914"
+        "installFillForeground": "#000000",
+        "updateForeground": "#000000"
       }
     },
-    "Bookmark.MnemonicAvailable.background": "#060914",
+    "Bookmark.MnemonicAvailable.background": "#000000",
     "Bookmark.MnemonicAvailable.foreground": "#C9CCD5",
-    "Bookmark.MnemonicAssigned.foreground": "#060914",
+    "Bookmark.MnemonicAssigned.foreground": "#000000",
     "Bookmark.Mnemonic.iconForeground": "#C9CCD5",
     "ScrollBar": {
       "Transparent": {
         "thumbColor": "#b3b3b3",
-        "thumbBorderColor": "#060914C8",
+        "thumbBorderColor": "#000000C8",
         "hoverThumbColor": "#E6E6E6",
-        "hoverThumbBorderColor": "#060914C8",
+        "hoverThumbBorderColor": "#000000C8",
         "hoverTrackColor": "#E6E6E65A"
       },
       "thumbColor": "#b3b3b3",
-      "thumbBorderColor": "#060914C8",
+      "thumbBorderColor": "#000000C8",
       "hoverThumbColor": "#E6E6E6",
-      "hoverThumbBorderColor": "#060914C8",
-      "trackColor": "#060914",
+      "hoverThumbBorderColor": "#000000C8",
+      "trackColor": "#000000",
       "hoverTrackColor": "#E6E6E65A",
       "Mac": {
         "Transparent": {
           "thumbColor": "#A6A6A6",
-          "thumbBorderColor": "#060914C8",
+          "thumbBorderColor": "#000000C8",
           "hoverThumbColor": "#E6E6E6",
-          "hoverThumbBorderColor": "#060914C8",
+          "hoverThumbBorderColor": "#000000C8",
           "hoverTrackColor": "#E6E6E65A"
         },
         "thumbColor": "#A6A6A6",
-        "thumbBorderColor": "#060914C8",
+        "thumbBorderColor": "#000000C8",
         "hoverThumbColor": "#E6E6E6",
-        "hoverThumbBorderColor": "#060914C8",
-        "trackColor": "#060914",
+        "hoverThumbBorderColor": "#000000C8",
+        "trackColor": "#000000",
         "hoverTrackColor": "#E6E6E65A"
       }
     },
     "Slider": {
       "buttonColor": "#C9CCD5",
-      "buttonBorderColor": "#060914",
+      "buttonBorderColor": "#000000",
       "tickColor": "#C9CCD5",
       "trackColor": "#8c8c8c"
     },
     "ToggleButton": {
       "onForeground": "#C9CCD5",
       "offForeground": "#C9CCD5",
-      "offBackground": "#060914",
+      "offBackground": "#000000",
       "buttonColor": "#C9CCD5"
     },
     "Lesson": {
       "stepNumberForeground": "#C9CCD5",
-      "Badge.newLessonForeground": "#060914"
+      "Badge.newLessonForeground": "#000000"
     },
     "GotItTooltip": {
-      "codeBackground": "#060914",
-      "shortcutBackground": "#060914"
+      "codeBackground": "#000000",
+      "shortcutBackground": "#000000"
     },
     "Tooltip.Learning": {
-      "spanForeground": "#060914",
+      "spanForeground": "#000000",
       "foreground": "#C9CCD5",
       "stepNumberForeground": "#C9CCD5"
     },
-    "MainToolbar.background": "#060914",
+    "MainToolbar.background": "#000000",
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#060914"
+        "currentBranchBackground": "#000000"
       },
-      "FileHistory.Commit.selectedBranchBackground": "#060914"
+      "FileHistory.Commit.selectedBranchBackground": "#000000"
     }
   },
   "icons": {
     "ColorPalette": {
-      "Objects.BlackText": "#060914FF",
-      "Checkbox.Background.Default.Dark": "#060914",
-      "Checkbox.Background.Disabled.Dark": "#060914"
+      "Objects.BlackText": "#000000FF",
+      "Checkbox.Background.Default.Dark": "#000000",
+      "Checkbox.Background.Disabled.Dark": "#000000"
     }
   }
 }
